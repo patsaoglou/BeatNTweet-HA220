@@ -65,7 +65,7 @@ Doing the measurements at the final board, they were almost the same with the si
 
 
 With normal use the amp is stable and with full power at 16Omhs it is suggested to put a heatsink because the transistors are dissipating more than 1W which is the dissipition in normal use with my headphones!
-The sound was nice, flat , I could hear some hiss when the pot was turned all the way up, but that probaply has to do with the breadboard headers and the breadboard cables I used to input the signal. It is deafening to hear at max volume. As a design is quite overkill for headphones but why not…😊
+The sound was nice, flat, I could hear some hiss when the pot was turned all the way up, but that propably has to do with the breadboard headers and the breadboard cables I used to input the signal. It is deafening to hear at max volume. As a design is quite overkill for headphones but why not…😊
 
 
 ![20230709_041819](https://github.com/patsaoglou/BNT-HA220/assets/93339707/624548d9-a6b0-4ef2-a3b6-abab96f2546c)
