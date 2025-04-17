@@ -1,3 +1,6 @@
+# Refined version with Class A output stage and more!
+Repo: https://github.com/patsaoglou/BeatNTweat-Phemeus-l
+
 # Introduction
 This repository is dedicated for the BNT HA-220 Headphone amplifier project. BNT stands for BeatNTweet, a neat company like name I was looking for to name my audio projects while HA-220 stands for Headphone Amplifier and 220 total of 2 watts of power per channel at 20V DC with a single supply. In this repository you are going to find the schematic of the project, a pcb report document and a folder with the manufacturing files of the pcb. We’re also going to talk about the initial requirements I had with the design, the reasons I choose to use the final circuit topology, the components I use and finaly some problems and mistakes I did during the design of the project.
 
